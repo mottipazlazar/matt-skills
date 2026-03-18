@@ -1,0 +1,5 @@
+add-skill.py
+.DS_Store
+__MACOSX/
+*.skill
+*.zip

@@ -1,0 +1,7 @@
+{
+  "name": "dealflow-brand",
+  "description": "Apply DealFlow OH brand guidelines to ANY output. Trigger this skill whenever the user asks to create or edit a presentation, document, spreadsheet, social media post, image overlay, property flyer, banner, badge, video thumbnail, blog image, or any visual or written asset for DealFlow OH — even if they don't say 'brand' or 'guidelines'. Always trigger when an image is uploaded (ask what they want done with it). Always trigger for decks, reports, flyers, posts, templates, email graphics, or anything that will appear under the DealFlow name. This skill encodes the full visual identity: colors, typography, logo rules, imagery style, social media templates, badge icons, and layout principles so every output is professional and on-brand.",
+  "version": "1.0.0",
+  "author": "mottipazlazar",
+  "skill": "SKILL.md"
+}
