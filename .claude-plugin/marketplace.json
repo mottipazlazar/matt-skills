@@ -1,31 +1,47 @@
 {
   "name": "matt-skills",
-  "author": "mottipazlazar",
-  "description": "Motti Lazar's personal Claude Code skills marketplace",
-  "skills": [
+  "owner": {
+    "name": "mottipazlazar"
+  },
+  "metadata": {
+    "description": "Motti Lazar's personal Claude Code skills marketplace"
+  },
+  "plugins": [
     {
       "name": "dealflow-brand",
+      "source": "./skills/dealflow-brand",
       "description": "Apply DealFlow OH brand guidelines to ANY output. Trigger this skill whenever the user asks to create or edit a presentation, document, spreadsheet, social media post, image overlay, property flyer, banner, badge, video thumbnail, blog image, or any visual or written asset for DealFlow OH — even if they don't say 'brand' or 'guidelines'. Always trigger when an image is uploaded (ask what they want done with it). Always trigger for decks, reports, flyers, posts, templates, email graphics, or anything that will appear under the DealFlow name. This skill encodes the full visual identity: colors, typography, logo rules, imagery style, social media templates, badge icons, and layout principles so every output is professional and on-brand.",
-      "path": "skills/dealflow-brand",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "author": {
+        "name": "mottipazlazar"
+      }
     },
     {
       "name": "sms-lead-qualification",
+      "source": "./skills/sms-lead-qualification",
       "description": "Expert SMS acquisitions specialist for Dealflow OH LLC — managing and qualifying vacant land leads through the full SMS pipeline in Launch Control. Use this skill for ANY of the following: a seller has replied to an SMS and you need to know what to do next; you need to pick the right quick reply or template from LC_Templates; you need to assign or update a lead status; you need to decide which drip campaign to use; you need to handle a seller objection, price negotiation, or offer situation; you need to run the followup sequence on Nurture or Warm leads; you need to perform Initial DD or Full DD; you need to comp a parcel and give an offer. Always use this skill when the conversation involves lead management, SMS replies, pipeline routing, offer decisions, or anything related to the Dealflow acquisitions workflow.",
-      "path": "skills/sms-lead-qualification",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "author": {
+        "name": "mottipazlazar"
+      }
     },
     {
       "name": "nanobanana-prompter",
+      "source": "./skills/nanobanana-prompter",
       "description": "Generate optimized prompts for Google's Nano Banana image generators (Nano Banana 2 and Nano Banana Pro). Use when the user invokes /image-prompt or asks to create, write, craft, or generate a prompt for Nano Banana, Gemini image generation, or AI image creation. Also triggers when the user says \"image prompt\", \"nano banana prompt\", \"nano banana 2\", or \"help me describe an image\".",
-      "path": "skills/nanobanana-prompter",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "author": {
+        "name": "mottipazlazar"
+      }
     },
     {
       "name": "budget-analyzer",
+      "source": "./skills/budget-analyzer",
       "description": "Analyze personal or business expenses from CSV/Excel. Categorize spending, identify trends, compare periods, and get savings recommendations.",
-      "path": "skills/budget-analyzer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "author": {
+        "name": "mottipazlazar"
+      }
     }
   ]
 }
