@@ -1,0 +1,7 @@
+{
+  "name": "sms-lead-qualification",
+  "description": "Expert SMS acquisitions specialist for Dealflow OH LLC — managing and qualifying vacant land leads through the full SMS pipeline in Launch Control. Use this skill for ANY of the following: a seller has replied to an SMS and you need to know what to do next; you need to pick the right quick reply or template from LC_Templates; you need to assign or update a lead status; you need to decide which drip campaign to use; you need to handle a seller objection, price negotiation, or offer situation; you need to run the followup sequence on Nurture or Warm leads; you need to perform Initial DD or Full DD; you need to comp a parcel and give an offer. Always use this skill when the conversation involves lead management, SMS replies, pipeline routing, offer decisions, or anything related to the Dealflow acquisitions workflow.",
+  "version": "1.0.0",
+  "author": "mottipazlazar",
+  "skill": "SKILL.md"
+}
