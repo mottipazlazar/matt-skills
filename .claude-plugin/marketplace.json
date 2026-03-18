@@ -20,6 +20,12 @@
       "description": "Generate optimized prompts for Google's Nano Banana image generators (Nano Banana 2 and Nano Banana Pro). Use when the user invokes /image-prompt or asks to create, write, craft, or generate a prompt for Nano Banana, Gemini image generation, or AI image creation. Also triggers when the user says \"image prompt\", \"nano banana prompt\", \"nano banana 2\", or \"help me describe an image\".",
       "path": "skills/nanobanana-prompter",
       "version": "1.0.0"
+    },
+    {
+      "name": "budget-analyzer",
+      "description": "Analyze personal or business expenses from CSV/Excel. Categorize spending, identify trends, compare periods, and get savings recommendations.",
+      "path": "skills/budget-analyzer",
+      "version": "1.0.0"
     }
   ]
 }

@@ -1,0 +1,7 @@
+{
+  "name": "budget-analyzer",
+  "description": "Analyze personal or business expenses from CSV/Excel. Categorize spending, identify trends, compare periods, and get savings recommendations.",
+  "version": "1.0.0",
+  "author": "mottipazlazar",
+  "skill": "SKILL.md"
+}
