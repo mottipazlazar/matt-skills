@@ -51,6 +51,15 @@
       "author": {
         "name": "mottipazlazar"
       }
+    },
+    {
+      "name": "land-listing-copy-writer",
+      "source": "./skills/land-listing-copy-writer",
+      "description": "Write high-conversion vacant land listing copy using Hormozi marketing psychology and the Slippery Slide copywriting framework for Dealflow OH LLC. Trigger this skill whenever the user wants to create, write, rewrite, or improve a land listing ad, generate listing titles, write ad copy for any platform, create a LandSearch compliant version, get image suggestions, or do avatar/buyer research for a property. Also trigger for any mention of \"listing copy\", \"ad copy\", \"land ad\", \"write a listing\", \"listing for [county/state]\", \"LandSearch version\", \"Landmodo\", or \"image suggestions\". Always trigger when the user shares property details and wants marketing output. For website formatting commands (\"highlights\", \"5 paragraphs\", \"dd bullets\", \"give me terms\", \"suggest a slug\", \"filter tags\"), use the dealflow-website-listing skill instead.",
+      "version": "1.0.0",
+      "author": {
+        "name": "mottipazlazar"
+      }
     }
   ]
 }
