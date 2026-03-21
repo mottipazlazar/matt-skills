@@ -1,0 +1,7 @@
+{
+  "name": "df-website-listing-formatter",
+  "description": "Format approved land listing copy into the WordPress/Elementor field structure for DealflowLand.com. Trigger this skill when the user wants to format a listing for the Dealflow website, asks for \"website version\", \"WordPress version\", \"Elementor version\", \"Dealflow website format\", \"5 paragraphs\", \"highlights\", \"dd bullets\", \"give me terms\", \"suggest a slug\", or \"filter tags\". Also trigger when the land-listing-copy skill completes Phase 8 (compilation) and the user is ready to format for the website. This skill takes existing approved listing copy and distributes it across the specific fields and HTML format required by the DealflowLand.com WordPress/Elementor site. Always trigger when the user mentions \"dealflow website\", \"website listing\", or any reference to formatting copy for the Dealflow site. Can also be triggered standalone for quick commands like \"give me 9 dd bullets\" or \"give me terms\".",
+  "version": "1.0.0",
+  "author": "mottipazlazar",
+  "skill": "SKILL.md"
+}
